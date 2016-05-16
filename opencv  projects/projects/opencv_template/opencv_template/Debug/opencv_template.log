@@ -1,0 +1,7 @@
+﻿  imgproc.cpp
+c:\users\mlacerna\documents\opencv  projects\source\imgproc\imgproc.cpp(10): warning C4129: ' ': unrecognized character escape sequence
+c:\users\mlacerna\documents\opencv  projects\source\imgproc\imgproc.cpp(8): warning C4101: 'iterations': unreferenced local variable
+c:\users\mlacerna\documents\opencv  projects\source\imgproc\imgproc.cpp(8): warning C4101: 'element': unreferenced local variable
+c:\users\mlacerna\documents\opencv  projects\source\imgproc\imgproc.cpp(8): warning C4101: 'max_ksize': unreferenced local variable
+  opencv_template.vcxproj -> C:\Users\mlacerna\Documents\opencv  projects\projects\opencv_template\Debug\opencv_template.exe
+  opencv_template.vcxproj -> C:\Users\mlacerna\Documents\opencv  projects\projects\opencv_template\Debug\opencv_template.pdb (Partial PDB)
